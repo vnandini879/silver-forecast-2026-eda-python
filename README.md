@@ -1,4 +1,4 @@
-Silver Market Forecast Analysis
+**Silver Market Forecast Analysis**
 
 An Exploratory Data Analysis (EDA) Study
 
